@@ -11,6 +11,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
+    "chapter-8-example-3": "file:",
     "express": "^5.0.0-beta.1"
   },
   "devDependencies": {
